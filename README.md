@@ -1,4 +1,4 @@
-# EN_Read_Adjacency_List_From_File
+Take a look at to flowchart to understand the code better.
 With this algorithm, we are converting the adjacency list in the .txt file to a singly linked list. 
 Examine the attached image to see the structure created by the algorithm. 
 The nodes on the left, seen in the picture and in the .txt file, are expressed as the main node in the code.
